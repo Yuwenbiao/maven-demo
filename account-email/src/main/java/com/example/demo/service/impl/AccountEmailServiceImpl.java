@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;
-
 /**
  * 账户邮件服务
  *
